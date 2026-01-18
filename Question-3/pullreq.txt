@@ -1,5 +1,13 @@
+Conflicts resolved using : rebase
 This is created by the main branch :
 the Cast are 
     Max 
     Eleven 
     Harrington
+
+These are the works done in the side branch :
+    Bruce lee
+    M.J
+    Tom Halond
+
+
