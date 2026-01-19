@@ -1,62 +1,58 @@
-Git Assignments (Q1–Q5)
-Assignment 1: Git Basics
+# Git Assignments (Q1–Q5)
 
-Created a Git repository
+## Assignment 1: Git Basics
 
-Added files and committed changes
+* Created a Git repository
+* Added files and committed changes
+* Viewed commit history using `git log`
+* Cloned the repository
+* Used `git fetch` and `git pull` to sync changes
 
-Viewed commit history using git log
+**Concepts learned:** Repository, commit, clone, fetch, pull
 
-Cloned the repository
+---
 
-Used git fetch and git pull to sync changes
+## Assignment 2: Branching and Merging
 
-Concepts learned: Repository, commit, clone, fetch, pull
+* Created a new feature branch
+* Switched between branches
+* Made changes and committed them
+* Merged the feature branch into main
+* Pushed changes to the remote repository
 
-Assignment 2: Branching and Merging
+**Concepts learned:** Branch, checkout, merge, push
 
-Created a new feature branch
+---
 
-Switched between branches
+## Assignment 3: Pull Request and Conflict Resolution
 
-Made changes and committed them
+* Created a feature branch and pushed it
+* Opened a pull request on GitHub
+* Made conflicting changes in main branch
+* Resolved conflict using `git rebase`
+* Merged the pull request
 
-Merged the feature branch into main
+**Concepts learned:** Pull request, merge conflict, rebase
 
-Pushed changes to the remote repository
+---
 
-Concepts learned: Branch, checkout, merge, push
+## Assignment 4: Cherry-pick
 
-Assignment 3: Pull Request and Conflict Resolution
+* Selected specific commits from one branch
+* Applied them to another branch using `git cherry-pick`
 
-Created a feature branch and pushed it
+**Concepts learned:** Cherry-pick, selective commit transfer
 
-Opened a pull request on GitHub
+---
 
-Made conflicting changes in main branch
+## Assignment 5: Reset vs Revert
 
-Resolved conflict using git rebase
+* Created multiple commits on a branch
+* Used `git reset` to remove commits from history
+* Used `git revert` to undo changes safely
+* Compared `git log` after reset and revert
 
-Merged the pull request
+**Concepts learned:** Reset, revert, commit history difference
 
-Concepts learned: Pull request, merge conflict, rebase
+---
 
-Assignment 4: Cherry-pick
-
-Selected specific commits from one branch
-
-Applied them to another branch using git cherry-pick
-
-Concepts learned: Cherry-pick, selective commit transfer
-
-Assignment 5: Reset vs Revert
-
-Created multiple commits on a branch
-
-Used git reset to remove commits from history
-
-Used git revert to undo changes safely
-
-Compared git log after reset and revert
-
-Concepts learned: Reset, revert, commit history difference
